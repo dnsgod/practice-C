@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\c-practice\\Day09 -C-memory-debug\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30DC5541-421B-48CC-961A-322DE7E351C8}|Day09 -C-memory-debug\\Day09 -C-memory-debug.vcxproj|C:\\Users\\user\\Desktop\\c-practice\\Day09 -C-memory-debug\\Day09 -C-memory-debug\\memory-debug.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30DC5541-421B-48CC-961A-322DE7E351C8}|Day09 -C-memory-debug\\Day09 -C-memory-debug.vcxproj|solutionrelative:Day09 -C-memory-debug\\memory-debug.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "memory-debug.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c-practice\\Day09 -C-memory-debug\\Day09 -C-memory-debug\\memory-debug.c",
+              "RelativeDocumentMoniker": "Day09 -C-memory-debug\\memory-debug.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c-practice\\Day09 -C-memory-debug\\Day09 -C-memory-debug\\memory-debug.c",
+              "RelativeToolTip": "Day09 -C-memory-debug\\memory-debug.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-24T05:29:59.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
