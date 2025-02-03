@@ -1,0 +1,4 @@
+﻿  sturuct-array.c
+C:\Users\user\Desktop\c-practice\Struct-Array\Struct-Array\sturuct-array.c(11,16): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\Desktop\c-practice\Struct-Array\Struct-Array\sturuct-array.c(13,18): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  Struct-Array.vcxproj -> C:\Users\user\Desktop\c-practice\Struct-Array\x64\Debug\Struct-Array.exe
